@@ -56,17 +56,52 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <!-- Ảnh con rắn động ăn các ô màu xanh đóng góp -->
+  <img src="https://raw.githubusercontent.com/dothang13/dothang13/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <!-- Biểu đồ đường lượn sóng đóng góp theo tuần -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dothang13&theme=tokyonight&bg_color=0d1117&hide_border=false" width="100%" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dothang13&show_icons=true&theme=tokyonight&hide_border=false&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dothang13&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="48%" />
   &nbsp;
   <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothang13&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothang13&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dothang13&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/dothang13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
