@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/dothang13?label=Followers&style=social" alt="Followers" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/normal-badge/?username=dothang13&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dothang13&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
