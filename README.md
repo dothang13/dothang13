@@ -25,8 +25,14 @@
 
 <!-- Centered Icon Grid (Bảng icon tròn căn giữa) -->
 <p align="center">
+  <!-- Nhóm Frontend & Mobile -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,nodejs,spring,flutter,html,css,dart,cpp,mysql,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,kotlin,figma,vscode&perline=5" alt="Frontend & Mobile Skills" />
+  </a>
+  <br><br>
+  <!-- Nhóm Backend, Database & Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,php,mysql,mongodb,arduino,py,cpp,github&perline=5" alt="Backend & Tools Skills" />
   </a>
 </p>
 
