@@ -1,6 +1,6 @@
 <!-- Sleek Terminal Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9B2C3&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+a+Software+Engineer;Building+scalable+mobile+%26+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9B2C3&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Nguyen+Do+Thang;Frontend+Dev+%7C+Japanese+N3;Always+learning%2C+always+creating" alt="Typing SVG" />
 </p>
 
 <!-- Subtle divider -->
