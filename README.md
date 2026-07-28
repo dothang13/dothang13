@@ -80,12 +80,12 @@
   <!-- GitHub Stats Card -->
   <img src="https://github-stats-extended.vercel.app/api?username=dothang13&show_icons=true&theme=tokyonight&hide_border=false&v=1" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <!-- Most Used Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dothang13&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dothang13&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <!-- Most Used Languages Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dothang13&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" width="48%" />
 </p>
 ---
 
