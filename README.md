@@ -1,74 +1,73 @@
-<!-- Header Banner động đẹp mắt -->
+<!-- Sleek Terminal Typing Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Xin%20chào,%20mình%20là%20[Tên%20Của%20Bạn]&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9B2C3&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+a+Software+Engineer;Building+scalable+mobile+%26+web+apps;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
-<!-- Lời chào & Giới thiệu ngắn -->
+<!-- Subtle divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andryback/andryback/main/assets/line.svg" width="100%" alt="Divider" />
+</p>
+
 <div align="center">
-  <h3>👋 Chào mừng bạn đến với không gian làm việc của mình!</h3>
-  <p>Một lập trình viên đam mê công nghệ, luôn tìm tòi học hỏi và chia sẻ kiến thức hữu ích.</p>
+  
+  <!-- Bio -->
+  <p>Minimalist developer focused on clean code, performance, and outstanding user experiences.</p>
+
+  <!-- Real-time Status Card (via Lanyard + Discord) -->
+  <!-- Shows what you're doing right now on Discord/Spotify -->
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&animated=true" alt="Discord Rich Presence" />
+  </a>
+
 </div>
 
-<p align="center">
-  <!-- Visitor Counter (Bộ đếm lượt truy cập) -->
-  <img src="https://komarev.com/normal-badge/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="visitor counter" />
-</p>
+<br/>
 
----
-
-### 💫 Về bản thân mình
-- 🔭 Mình hiện đang làm việc/học tập tại **[Tên Công Ty/Trường Học]**
-- 🌱 Mình đang tìm hiểu và nghiên cứu sâu hơn về **[Lĩnh vực bạn quan tâm, ví dụ: Android Development, Web App, AI/ML]**
-- 💬 Hãy hỏi mình về **[Kỹ năng thế mạnh của bạn, ví dụ: Kotlin, React, UI/UX]**
-- ⚡ Một sự thật thú vị: **[Một câu nói vui vẻ hoặc sở thích cá nhân ngoài code]**
-
----
-
-### 🛠️ Ngôn ngữ & Công cụ (Tech Stack)
+### 🛠️ Core Tech Stack
 
 <p align="left">
-  <!-- Ngôn ngữ lập trình -->
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Frameworks & Công nghệ -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-
-  <!-- Cơ sở dữ liệu & Công cụ -->
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-*(Mẹo: Bạn có thể tìm thêm logo tại [Shields.io](https://shields.io/) hoặc [Simple Icons](https://simpleicons.org/))*
-
----
-
-### 📊 Thống kê GitHub (GitHub Stats)
-
-Đây là nơi hiển thị năng suất làm việc của bạn một cách trực quan:
-
-<p align="center">
-  <!-- Thống kê tổng quan -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&locale=vi" alt="GitHub Stats" width="48%" />
-  <!-- Các ngôn ngữ hay dùng nhất -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&locale=vi" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Biểu đồ chuỗi ngày đóng góp liên tục (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <!-- Minimalist, color-coordinated badges (using Shields.io simple style) -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📫 Kết nối với mình
+### 📊 Git Analytics & Contribution City
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<p align="center">
+  <!-- 3D Contribution City View -->
+  <!-- Note: Requires setting up the 3D contribution github action (see instructions below) -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="90%" />
 </p>
+
+<p align="center">
+  <!-- Clean, Dark-themed Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🐍 The Code-Eating Snake
+
+Below is my contribution grid animated as a retro snake game eating my daily contributions. This is updated daily via GitHub Actions.
+
+<p align="center">
+  <!-- Snake Game GIF -->
+  <!-- Note: Requires setting up the Snake Game github action (see instructions below) -->
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+*   **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+*   **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
