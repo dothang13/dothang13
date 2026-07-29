@@ -1,6 +1,6 @@
 <!-- Sleek Terminal Typing Header (Dòng chữ chạy căn giữa) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nguyen+Do+Than+%F0%9F%91%8B;What+would+you+do+if+you+weren't+afraid%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A9B2C3&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nguyen+Do+Thang+%F0%9F%91%8B;What+would+you+do+if+you+weren't+afraid%3F" alt="Typing SVG" />
 </p>
 
 <!-- Followers and Visitors Counter (Số follow và lượt xem) -->
